@@ -1,0 +1,8 @@
+main {
+    margin-top: 12rem;
+}
+img {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
